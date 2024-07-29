@@ -1,0 +1,6 @@
+Flask
+Flask-Cors
+pymodbus
+paho-mqtt
+pysnmp
+bacpypes
